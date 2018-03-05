@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QmlMultiTouch/MultiTouch.qml</file>
+        <file>QmlMultiTouch/Private/Debug.qml</file>
+        <file>QmlMultiTouch/Private/MultiTouchSlider.qml</file>
+    </qresource>
+</RCC>
